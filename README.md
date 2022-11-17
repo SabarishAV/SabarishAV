@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SabarishAV
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning computer science at AWH Engineering College,Kuttikkattor
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me avsabarish@gmail.com
 
 <!---
